@@ -1,4 +1,4 @@
-# Hi there, I'm Daniel Adeleye, an <a href="www.linkedin.com/in/daniel-adeleye777">IT Professional</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi there, I'm Daniel Adeleye, an <a href="[https://www.linkedin.com/in/daniel-adeleye-419b5342/]">IT Professional</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## About Me
 
@@ -7,7 +7,7 @@ I have a passion for Information Technology and welcome to my portfolio. I have 
 
 # Current Path 
 
-Sucessfully achieved at the following:
+Completed Achievements:
 
 -  The Information Technology path at <a href="https://coursecareers.com">CourseCareers</a>
   
@@ -51,3 +51,5 @@ Im able to understand technical documentation, tutorials/guides, and articles fo
 [![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/daniel-adeleye777)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](iamdanielade1@gmail.com)
 
+# Get in Touch
+www.linkedin.com/in/daniel-adeleye777
