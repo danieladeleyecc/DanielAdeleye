@@ -48,8 +48,6 @@ Im able to understand technical documentation, tutorials/guides, and articles fo
 
 # Get in Touch
 
-[![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/daniel-adeleye777)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](iamdanielade1@gmail.com)
+![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white) www.linkedin.com/in/daniel-adeleye777
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)iamdanielade1@gmail.com
 
-# Get in Touch
-www.linkedin.com/in/daniel-adeleye777
