@@ -22,7 +22,7 @@ Completed Achievements:
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/danieladeleyecc/OSTicket-pre)
   - [osTicket: Post-Installation Configuration](https://github.com/danieladeleyecc/OsTicketp2)
-  - [osTicket: Ticket Lifecyle Examples](https://github.com/danieladeleyecc/OSTicket-Res)  
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/danieladeleyecc/OSTicket-Res)  
 
 
 # Interpersonal Skills
