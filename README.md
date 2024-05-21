@@ -12,16 +12,18 @@ Completed Achievements:
 -  The Information Technology path at <a href="https://coursecareers.com">CourseCareers</a>
   
 
-## Information Technology Projects
+## Information Technology Projects 💻
+
+- <b>Microsoft Azure </b>
+  - [Creating a Virtual Machine on Azure](https://github.com/danieladeleyecc/AzureVM)
+  - [Install and Configure the File Server Role](https://github.com/danieladeleyecc/AzureFileServerRole)
+  - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/danieladeleyecc/ActiveDirectoryAzure)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation (Part 1)](https://github.com/anumkhanit/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration (Part 2)](https://github.com/anumkhanit/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples (Part 3)](https://github.com/anumkhanit/ticket-lifecycle)
-- <b>Network Security Groups (NSGs)</b>
-  - [Using Wireshark with Microsoft Azure Virtual Machines](https://github.com/anumkhanit/azure-wireshark-network-protocols)
-- <b>Deploying Active Directory and Creating Users</b>
-  - [Setting Up Active Directory on Azure](https://github.com/anumkhanit/active-direct)
+  - [osTicket: Prerequisites and Installation](https://github.com/danieladeleyecc/OSTicket-pre)
+  - [osTicket: Post-Installation Configuration](https://github.com/danieladeleyecc/OsTicketp2)
+  - [osTicket: Ticket Lifecyle Examples](https://github.com/danieladeleyecc/OSTicket-Res)  
+
 
 # Interpersonal Skills
 
